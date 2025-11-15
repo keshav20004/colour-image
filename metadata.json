@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Colorizer & 4K Enhancer",
+  "description": "An application that uses AI to convert black and white images to full color and enhances them to 4K resolution. Simply upload an image to see the magic.",
+  "requestFramePermissions": []
+}
